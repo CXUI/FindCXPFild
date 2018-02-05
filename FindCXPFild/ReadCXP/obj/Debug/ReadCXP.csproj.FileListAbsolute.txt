@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2013\Projects\FindCXPFild\ReadCXP\bin\Debug\ReadCXP.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\FindCXPFild\ReadCXP\bin\Debug\ReadCXP.exe
+c:\users\administrator\documents\visual studio 2013\Projects\FindCXPFild\ReadCXP\bin\Debug\ReadCXP.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\FindCXPFild\ReadCXP\obj\Debug\ReadCXP.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\FindCXPFild\ReadCXP\obj\Debug\ReadCXP.Main.resources
+c:\users\administrator\documents\visual studio 2013\Projects\FindCXPFild\ReadCXP\obj\Debug\ReadCXP.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\FindCXPFild\ReadCXP\obj\Debug\ReadCXP.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\FindCXPFild\ReadCXP\obj\Debug\ReadCXP.exe
+c:\users\administrator\documents\visual studio 2013\Projects\FindCXPFild\ReadCXP\obj\Debug\ReadCXP.pdb
